@@ -1,0 +1,15 @@
+F:\ECTPNIMD\WiFiClientService\WiFiClientService\bin\Debug\WiFiClientService.exe.config
+F:\ECTPNIMD\WiFiClientService\WiFiClientService\bin\Debug\WiFiClientService.exe
+F:\ECTPNIMD\WiFiClientService\WiFiClientService\bin\Debug\WiFiClientService.pdb
+F:\ECTPNIMD\WiFiClientService\WiFiClientService\obj\Debug\WiFiClientService.exe
+F:\ECTPNIMD\WiFiClientService\WiFiClientService\obj\Debug\WiFiClientService.pdb
+F:\ECTPNIMD\WiFiClientService\WiFiClientService\obj\Debug\WiFiClientService.csprojResolveAssemblyReference.cache
+F:\temp\WiFiClientService\WiFiClientService\WiFiClientService\bin\Debug\WiFiClientService.exe.config
+F:\temp\WiFiClientService\WiFiClientService\WiFiClientService\bin\Debug\WiFiClientService.exe
+F:\temp\WiFiClientService\WiFiClientService\WiFiClientService\bin\Debug\WiFiClientService.pdb
+F:\temp\WiFiClientService\WiFiClientService\WiFiClientService\obj\Debug\WiFiClientService.csprojResolveAssemblyReference.cache
+F:\temp\WiFiClientService\WiFiClientService\WiFiClientService\obj\Debug\WiFiClientService.RunWiFiClientServiceInstaller.resources
+F:\temp\WiFiClientService\WiFiClientService\WiFiClientService\obj\Debug\WiFiClientService.RunWiFiClientService.resources
+F:\temp\WiFiClientService\WiFiClientService\WiFiClientService\obj\Debug\WiFiClientService.csproj.GenerateResource.Cache
+F:\temp\WiFiClientService\WiFiClientService\WiFiClientService\obj\Debug\WiFiClientService.exe
+F:\temp\WiFiClientService\WiFiClientService\WiFiClientService\obj\Debug\WiFiClientService.pdb

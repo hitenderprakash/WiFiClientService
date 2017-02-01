@@ -1,0 +1,8 @@
+F:\temp\WiFiClientService\WiFiClientService\WiFiClientService\bin\Release\WiFiClientService.exe.config
+F:\temp\WiFiClientService\WiFiClientService\WiFiClientService\bin\Release\WiFiClientService.exe
+F:\temp\WiFiClientService\WiFiClientService\WiFiClientService\bin\Release\WiFiClientService.pdb
+F:\temp\WiFiClientService\WiFiClientService\WiFiClientService\obj\Release\WiFiClientService.RunWiFiClientServiceInstaller.resources
+F:\temp\WiFiClientService\WiFiClientService\WiFiClientService\obj\Release\WiFiClientService.RunWiFiClientService.resources
+F:\temp\WiFiClientService\WiFiClientService\WiFiClientService\obj\Release\WiFiClientService.csproj.GenerateResource.Cache
+F:\temp\WiFiClientService\WiFiClientService\WiFiClientService\obj\Release\WiFiClientService.exe
+F:\temp\WiFiClientService\WiFiClientService\WiFiClientService\obj\Release\WiFiClientService.pdb

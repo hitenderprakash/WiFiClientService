@@ -1,0 +1,61 @@
+﻿Installing assembly 'F:\temp\WiFiClientService\WiFiClientService\WiFiClientService\bin\Debug\WiFiClientService.exe'.
+Affected parameters are:
+   i = 
+   logfile = F:\temp\WiFiClientService\WiFiClientService\WiFiClientService\bin\Debug\WiFiClientService.InstallLog
+   assemblypath = F:\temp\WiFiClientService\WiFiClientService\WiFiClientService\bin\Debug\WiFiClientService.exe
+   logtoconsole = 
+Installing service RunWiFiClientService...
+Service RunWiFiClientService has been successfully installed.
+Creating EventLog source RunWiFiClientService in log Application...
+Committing assembly 'F:\temp\WiFiClientService\WiFiClientService\WiFiClientService\bin\Debug\WiFiClientService.exe'.
+Affected parameters are:
+   i = 
+   logfile = F:\temp\WiFiClientService\WiFiClientService\WiFiClientService\bin\Debug\WiFiClientService.InstallLog
+   assemblypath = F:\temp\WiFiClientService\WiFiClientService\WiFiClientService\bin\Debug\WiFiClientService.exe
+   logtoconsole = 
+Uninstalling assembly 'F:\temp\WiFiClientService\WiFiClientService\WiFiClientService\bin\Debug\WiFiClientService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\temp\WiFiClientService\WiFiClientService\WiFiClientService\bin\Debug\WiFiClientService.InstallLog
+   assemblypath = F:\temp\WiFiClientService\WiFiClientService\WiFiClientService\bin\Debug\WiFiClientService.exe
+Removing EventLog source RunWiFiClientService.
+Service RunWiFiClientService is being removed from the system...
+Service RunWiFiClientService was successfully removed from the system.
+Installing assembly 'F:\temp\WiFiClientService\WiFiClientService\WiFiClientService\bin\Debug\WiFiClientService.exe'.
+Affected parameters are:
+   i = 
+   logfile = F:\temp\WiFiClientService\WiFiClientService\WiFiClientService\bin\Debug\WiFiClientService.InstallLog
+   assemblypath = F:\temp\WiFiClientService\WiFiClientService\WiFiClientService\bin\Debug\WiFiClientService.exe
+   logtoconsole = 
+Installing service RunWiFiClientService...
+Service RunWiFiClientService has been successfully installed.
+Creating EventLog source RunWiFiClientService in log Application...
+Committing assembly 'F:\temp\WiFiClientService\WiFiClientService\WiFiClientService\bin\Debug\WiFiClientService.exe'.
+Affected parameters are:
+   i = 
+   logfile = F:\temp\WiFiClientService\WiFiClientService\WiFiClientService\bin\Debug\WiFiClientService.InstallLog
+   assemblypath = F:\temp\WiFiClientService\WiFiClientService\WiFiClientService\bin\Debug\WiFiClientService.exe
+   logtoconsole = 
+Uninstalling assembly 'F:\temp\WiFiClientService\WiFiClientService\WiFiClientService\bin\Debug\WiFiClientService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\temp\WiFiClientService\WiFiClientService\WiFiClientService\bin\Debug\WiFiClientService.InstallLog
+   assemblypath = F:\temp\WiFiClientService\WiFiClientService\WiFiClientService\bin\Debug\WiFiClientService.exe
+Removing EventLog source RunWiFiClientService.
+Service RunWiFiClientService is being removed from the system...
+Service RunWiFiClientService was successfully removed from the system.
+Installing assembly 'F:\temp\WiFiClientService\WiFiClientService\WiFiClientService\bin\Debug\WiFiClientService.exe'.
+Affected parameters are:
+   i = 
+   logfile = F:\temp\WiFiClientService\WiFiClientService\WiFiClientService\bin\Debug\WiFiClientService.InstallLog
+   assemblypath = F:\temp\WiFiClientService\WiFiClientService\WiFiClientService\bin\Debug\WiFiClientService.exe
+   logtoconsole = 
+Installing service RunWiFiClientService...
+Service RunWiFiClientService has been successfully installed.
+Creating EventLog source RunWiFiClientService in log Application...
+Committing assembly 'F:\temp\WiFiClientService\WiFiClientService\WiFiClientService\bin\Debug\WiFiClientService.exe'.
+Affected parameters are:
+   i = 
+   logfile = F:\temp\WiFiClientService\WiFiClientService\WiFiClientService\bin\Debug\WiFiClientService.InstallLog
+   assemblypath = F:\temp\WiFiClientService\WiFiClientService\WiFiClientService\bin\Debug\WiFiClientService.exe
+   logtoconsole = 
